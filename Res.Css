@@ -48,10 +48,11 @@ p{
 table{
     border-collapse: collapse;
     border: 1px solid black;
-    margin: 30px auto;
-    min-width: 500px;
+    margin: 20px auto;
     user-select: none;
     cursor: pointer;
+    border-spacing: 0;
+    width: 90%;
 }
 .table thead tr{
     background-color: #34495e;
