@@ -162,8 +162,9 @@ hr{
 .pic img{
     height: 150px;
     width: 150px;
-    border-radius: 150%;
-    
+    border-radius: 150%;    
+}
+@media (max-width:600px){
 
 }
 
