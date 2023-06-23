@@ -66,6 +66,7 @@ table{
     cursor: pointer;
     border-spacing: 0;
     width: 90%;
+    user-select: none;
 }
 .table thead tr{
     background-color: #16a085;
