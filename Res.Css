@@ -27,8 +27,8 @@ h1{
     font-size: 23px;
     font-weight: 500;
     margin-top: 20px;
-color:white
-transition:0.2s linear;
+   color: white;
+   transition:0.2s linear;
 }
 .career:hover{
     color: black;
