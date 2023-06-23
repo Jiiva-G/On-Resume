@@ -66,7 +66,7 @@ table{
     cursor: pointer;
     border-spacing: 0;
     width: 90%;
-    user-select: none;
+    
 }
 .table thead tr{
     background-color: #16a085;
@@ -200,8 +200,13 @@ hr{
     width: 150px;
     border-radius: 150%;    
 }
-@media (max-width:600px){
-
+@media (max-width:400px){
+.yours{
+    margin-right: 30px;
+   }
+   .jiiva{
+    margin-right: 58px;
+   }
 }
 
 
