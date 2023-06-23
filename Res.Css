@@ -30,6 +30,10 @@ h1{
 color:white
 transition:0.2s linear;
 }
+.career:hover{
+    color: black;
+    background-color: #4c6680;
+}
 p{
     text-indent: 150px;
     font-size: 22px;
@@ -47,6 +51,12 @@ p{
     font-weight: 500;
     display: block;
     padding-bottom: 2px;   
+color:white;
+transition: 0.2s linear;
+}
+.Edu:hover{
+    color: black;
+    background-color: #4c6680;
 }
 table{
     border-collapse: collapse;
@@ -85,7 +95,12 @@ table{
     height: 25px;
     background-color:#34495e;
     padding: 5px;
-    
+    color:white;
+transition: 0.2s linear;
+}
+.com:hover{
+    color: black;
+    background-color: #4c6680;
 }
 .com h3{
     font-size: 23px;
@@ -98,6 +113,12 @@ table{
     text-align: center;
     padding: 5px;
     margin-top: 15px;
+color:white;
+transition: 0.2s linear
+}
+.pro:hover{
+    color: black;
+    background-color: #4c6680;
 }
 .pr{
     font-size: 23px;
@@ -115,6 +136,12 @@ ul li{
     text-align: center;
     padding: 5px;
     margin-top: 15px;
+color:white;
+transition: 0.2s linear;
+}
+.personal:hover{
+    color: black;
+    background-color: #4c6680;
 }
 .per{
     font-size: 23px;
@@ -134,7 +161,12 @@ ul li{
     background-color: #34495e;
     text-align: center;
     padding: 5px;
-    
+    color:white;
+transition: 0.2s linear;
+}
+.dec:hover{
+    color: black;
+    background-color: #4c6680;
 }
 .dec h3{
     font-size: 23px;
