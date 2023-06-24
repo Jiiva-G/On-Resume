@@ -201,7 +201,7 @@ hr{
     border-radius: 150%;    
 }
 .certificte{
-text decoration:none;
+text-decoration: none;
 }
 @media (max-width:400px){
 .yours{
