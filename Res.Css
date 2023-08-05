@@ -212,6 +212,25 @@ text-decoration: none;
    }
 }
 
+.link h3{
+    text-align: center;
+    user-select: none;
+}
+.link ul li{
+    margin-top: 20px;
+    text-align: center;
+    list-style-type: none;
+    
+}
+.link ul li a{
+    text-decoration: none;
+    color: orangered;
+}
+.link ul li a:hover{
+    color: teal;
+
+}
+
 
 
     
